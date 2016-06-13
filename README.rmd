@@ -6,4 +6,4 @@ Firstly we clean up a little bit the map using the Google API for geocode Bimbo 
 
 As we can see, as obvious, there are more agencies where there are more population.
 
-![AgenciesMap](https://github.com/oristides/BimboDemand/blob/master/BimboAgencies.pdf)
+![AgenciesMap](https://github.com/oristides/BimboDemand/raw/master/BimboAgencies.pdf)
