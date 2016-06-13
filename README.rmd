@@ -1,0 +1,9 @@
+# BimboDemand
+Exploring some features of Bimbo [Kaggle Contest](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
+
+In this repo we are going to try to explore more about the Bimbo data." It is very Big" To get some ideas where to start using ome spatial analysis
+Firstly we clean up a little bit the map using the Google API for geocode Bimbo and then make a map to view some Mexican fenomenas.
+
+As we can see, as obvious, there are more agencies where there are more population.
+
+![AgenciesMap](https://github.com/oristides/BimboDemand/blob/master/BimboAgencies.pdf)
